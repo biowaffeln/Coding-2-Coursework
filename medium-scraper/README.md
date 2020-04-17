@@ -15,6 +15,7 @@ The medium-reader script expects the url of a medium article as the first parame
 
 ## Lessons
 
-First of all, this project taught me how to install and manage python packages with pipenv. Secondly, it allowed me to explore the usage of some interesting packages, such as BeautifulSoup for web scraping, gensim for text summarization, and the Google text-to-speech package. Lastly, I learned how to make a simple command line app from a Python script with the [pathon-fire](https://github.com/google/python-fire) package.
+First of all, this project taught me how to install and manage python packages with pipenv. Secondly, it allowed me to explore the usage of some interesting packages, such as BeautifulSoup for web scraping, gensim for text summarization, and the Google text-to-speech package.
+Lastly, I learned how to make a simple command line app from a Python script with the [python-fire](https://github.com/google/python-fire) package.
 
 
